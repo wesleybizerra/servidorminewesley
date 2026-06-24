@@ -29,11 +29,19 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Olá me chamo BotWesley, sou o Bot que faz o servidor ficar 24 horas online, o tempo todo online",
+        "Ajude a me manter no servidor e fazer com que o servidor nunca desligue",
+        "Seja Bem Vindo ao Servidor do Wesley Bizerra",
+        "Inscreva-se no Youtube: www.youtube.com/@WesleyBizerraYT",
+        "ATIVA O SININHO PARA NÃO PERDER NENHUM VÍDEO NOVO OU LIVE NOVA",
+        "CLICA NO GOSTEI NA LIVE SE ESTIVAR AO VIVO, OU CLICA EM GOSTEI EM ALGUMA LIVE PASSADA OU VÍDEO JÁ POSTADO",
+        "COMENTA NO CHAT DA LIVE SE ESTIVER AO VIVO NESTE MOMENTO, OU COMENTA EM QUALQUER VÍDEO",
+        "ISSO AJUDA MUITO O CANAL, ACREDITE, ISSO É MUITO IMPORTANTE PARA MIM",
+        "VOCÊ AJUDA COM QUALQUER VALOR QUE VOCE QUISER E SE QUISER, MAS SÓ DE VOCÊ FAZER ISSO AI QUE FALEI, JÁ AJUDA O SUFICIENTE, PORQUE FAZ O YOUTUBE INDICAR MEU CANAL",
+        "Mande sua mensagem que você quiser no LIVEPIX: https://livepix.gg/wesleybizerra22",
+        "Olhe as abas do canal: Vídeos, Shorts, AO VIVO, Playlist, Posts"
       ]
     },
     "chat-log": true,
